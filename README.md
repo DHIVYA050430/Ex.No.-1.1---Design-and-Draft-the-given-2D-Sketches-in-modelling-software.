@@ -1,4 +1,3 @@
-![image](https://github.com/DHIVYA050430/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/147141546/db0f9d9e-df35-41b3-8add-1d52ac176afc)
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
